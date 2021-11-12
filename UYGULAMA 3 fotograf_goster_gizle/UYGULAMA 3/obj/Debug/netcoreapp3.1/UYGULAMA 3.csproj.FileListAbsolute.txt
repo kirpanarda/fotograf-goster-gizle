@@ -1,0 +1,16 @@
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\bin\Debug\netcoreapp3.1\UYGULAMA 3.exe
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\bin\Debug\netcoreapp3.1\UYGULAMA 3.deps.json
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\bin\Debug\netcoreapp3.1\UYGULAMA 3.runtimeconfig.json
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\bin\Debug\netcoreapp3.1\UYGULAMA 3.runtimeconfig.dev.json
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\bin\Debug\netcoreapp3.1\UYGULAMA 3.dll
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\bin\Debug\netcoreapp3.1\UYGULAMA 3.pdb
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA_3.Form1.resources
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA_3.Properties.Resources.resources
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.csproj.GenerateResource.cache
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.AssemblyInfoInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.AssemblyInfo.cs
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.csproj.CoreCompileInputs.cache
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.dll
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.pdb
+C:\Users\ARDA KIRPAN\Desktop\11.SINIF VİSUAL STUDİO ÖRNEKLER\UYGULAMA 3\UYGULAMA 3\obj\Debug\netcoreapp3.1\UYGULAMA 3.genruntimeconfig.cache
